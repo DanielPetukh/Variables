@@ -1,0 +1,6 @@
+Name=input("What is your name?")
+Age=input("How old are you?")
+Gender=input("What is your gender?")
+print(Name)
+print(Age)
+print(Gender)
